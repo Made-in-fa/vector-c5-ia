@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Modelos y pesos
+*.pkl
+*.pt
+*.bin
+*.model
+
+# Datos locales
+data/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Env
+.env
