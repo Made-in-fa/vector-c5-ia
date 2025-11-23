@@ -1,13 +1,14 @@
 {
     "labels": [
-        "ControlComunicaciones",
-        "Electrico",
-        "Electronico",
+        " ControlComunicaciones",
+        " Puertas",
         "Hidraulico",
         "Mecanico",
         "Neumatico",
         "Otros",
         "Puertas",
-        "Senalizacion"
+        "Senalizacion",
+        "electrico",
+        "electronico"
     ]
 }
